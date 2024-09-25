@@ -1,0 +1,12 @@
+Developed and implemented data pipelines using Azure Data Factory resulting in a 50% reduction in processing time. Collaborated with cross- functional teams to design and implement scalable data architectures. Implemented data governance policies resulting in a 30% reduction in data
+quality issues.
+⚫ Designed and implemented ETL processes using Azure Data Factory. resulting in a 50% reduction in processing time. • Collaborated with cross-functional teams to design and implement
+scalable data architectures.
+⚫Implemented data governance policies resulting in a 30% reduction in data quality issues.
+
+Developed and maintained data pipelines using Azure services resulting in
+a 40% increase in data processing speed. Designed and implemented a
+data lake architecture resulting in a 25% reduction in storage costs. • Developed and maintained data pipelines using Azure services resulting
+In a 40% increase in data processing speed.
+⚫ Designed and implemented a data lake architecture resulting in a 25%
+reduction in storage costs. • Collaborated with data scientists to implement machine learning models resulting in a 15% increase in revenue

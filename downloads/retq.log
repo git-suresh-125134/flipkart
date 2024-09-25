@@ -1,0 +1,10 @@
+20240418-17:12:52.355 00003B38 - ERROR: TrClient::Run()#1 'Ping timeout was expired'
+20240418-17:21:32.516 000028D4 - ERROR: ERROR 10054 -1 in TransportTCP1::ReadExact()#2 in TrClient::Run()#239
+20240418-17:22:36.977 00000904 - ERROR: ERROR 10054 -1 in TransportTCP1::ReadExact()#2 in TrClient::Run()#239
+20240418-17:25:58.996 00002600 - ERROR: ERROR 10054 -1 in TransportTCP1::ReadExact()#2 in TrClient::Run()#239
+20240418-17:27:55.476 00002BE0 - ERROR: ERROR 0 0 in TransportTCP1::ReadExact()#2 in TrClient::Run()#239
+20240418-17:33:15.414 00003934 - ERROR: ERROR 10054 -1 in TransportTCP1::ReadExact()#2 in TrClient::Run()#239
+20240418-17:44:03.959 000006B8 - ERROR: ERROR 10054 -1 in TransportTCP1::ReadExact()#2 in TrClient::Run()#239
+20240418-17:48:01.946 00000EA4 - ERROR: ERROR 10054 -1 in TransportTCP1::ReadExact()#2 in TrClient::Run()#239
+20240418-17:55:17.172 00003B50 - ERROR: ERROR 10054 -1 in TransportTCP1::ReadExact()#2 in TrClient::Run()#239
+20240418-18:21:19.457 00002F60 - ERROR: ERROR 10054 -1 in TransportTCP1::ReadExact()#2 in TrClient::Run()#239
